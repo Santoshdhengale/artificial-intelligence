@@ -1,0 +1,14 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Model files (optional but recommended)
+*.pkl
+
+# OS / Editor junk
+.DS_Store
+.vscode/
