@@ -55,7 +55,7 @@ How to run the Projecct
     pip install -r requirements.txt
 
 4.Run streamlit app
-    streamlit run spamdetection.py
+    streamlit run Home.py
 
 
 Model Used
