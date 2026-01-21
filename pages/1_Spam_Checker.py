@@ -59,4 +59,4 @@ st.markdown("")
 st.markdown("")
 
 if st.button("⬅ Back to Home"):
-    st.switch_page("spamdetection.py")
+    st.switch_page("Home.py")

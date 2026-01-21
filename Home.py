@@ -82,7 +82,7 @@ st.markdown("<br>", unsafe_allow_html=True)
 col1, col2, col3 = st.columns([10,1,10])
 
 with col2:
-    st.image("logo.png", width=120)
+    st.image("security2.png", width=150)
 
 st.markdown("""
 <p style="text-align:center; color:#9ca3af; letter-spacing:1px;">
@@ -149,6 +149,7 @@ col1, col2, col3 = st.columns([1,2,1])
 with col2:
     if st.button("🚀 Let’s Go →", use_container_width=True):
         st.switch_page("pages/1_Spam_Checker.py")
+
 
 #it is used to classify the text messages as spam or not spam based on the frequency of words in the messages.
 
